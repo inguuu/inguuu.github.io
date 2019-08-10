@@ -1,20 +1,14 @@
 # Site settings
-title: Zetsu
-email: zetsu@domain.com
-description: Um lindo tema feito para jekyll e com o <3
+title: Inguuu
+email: inguuu@naver.com
+description: 잡다한 IT 상식
 baseurl: "/inguuu.github.io"
-url: "http://nandomoreira.me"
+url: "http://inguuu.github.io"
 
-author:
-  name     : 'Fernando Moreira'
-  email    : hi@nandomoreira.me
-  url      : http://nandomoreira.me
-  facebook : http://facebook.com/fernando.dev
-  twitter  : http://twitter.com/nandomoreirame
+  
 
-github: https://github.com/nandomoreirame/zetsu
-disqus_shortname: "fernandomoreira"
-google_analytics: UA-52446115-1
+github: https://github.com/inguuu
+
 
 paginate: 2
 comments: true
