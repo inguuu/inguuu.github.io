@@ -5,9 +5,12 @@ date:   2019-04-08 13:00:08
 comments: true
 ---
 
-<h2>HTML, CSS, JAVASCRIPT 란?</h2>
 
-![1565410921576](C:\Users\User\AppData\Roaming\Typora\typora-user-images\1565410921576.png)
+
+
+<h4>HTML, CSS, JAVASCRIPT 란?</h4>
+
+![angularvuereact](https://user-images.githubusercontent.com/49789734/62817803-64e8ee00-bb77-11e9-8a0a-40ccb6689fb3.png)
 
 일상적인 하나의 웹페이지를 구성할때 필요한 언어들
 
@@ -38,7 +41,8 @@ document.backgroundColor ="white";
 {% endhighlight %}
 
 
-<h2>SPA 란?  앵귤러, 리액트, 뷰 란?</h2>
+
+<h4>SPA 란?  앵귤러, 리액트, 뷰 란?</h4>
 
 강력한 MVC패턴의 웹 프레임워크가 발전하면서 더 다양한 웹개발을 가능하게 했다.
 
@@ -56,7 +60,9 @@ document.backgroundColor ="white";
 
 ![angularvuereact](C:\Users\User\Desktop\angularvuereact.png)
 
-Vue.js
+
+
+<h4>Vue.js</h4>
 
 ØTemplate 문법
 
