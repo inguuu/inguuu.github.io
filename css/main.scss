@@ -12,3 +12,18 @@
 @import "helpers";
 @import "layout";
 @import "syntax";
+
+ table{
+        border:1px solid black;
+        border-collapse: collapse;
+    } 
+    td{
+        border:1px solid black;
+        border-collapse: collapse;
+    }  
+    th{
+        background:rgb(100, 114, 150);
+        color: #ffffff;
+        border:1px solid black;
+        border-collapse: collapse;
+    }  
