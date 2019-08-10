@@ -10,7 +10,7 @@ url: "http://inguuu.github.io"
 github: https://github.com/inguuu
 
 
-paginate: 2
+paginate: 3
 comments: true
 paginate_path: "/page/:num"
 
