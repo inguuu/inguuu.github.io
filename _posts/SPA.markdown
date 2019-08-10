@@ -4,21 +4,94 @@ title:  "Single Page App ??"
 date:   2019-06-08 13:00:08
 comments: true
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+<h2>HTML, CSS, JAVASCRIPT 란?</h2>
 
-Jekyll also offers powerful support for code snippets:
+![1565410921576](C:\Users\User\AppData\Roaming\Typora\typora-user-images\1565410921576.png)
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+일상적인 하나의 웹페이지를 구성할때 필요한 언어들
+
+간단하게 생각하면 !!
+
+<strong>HTML은</strong> 버튼, 입력창 등을 `만들어준다`.
+
+{% highlight html %}
+<button>버튼<button>
+{% endhighlight %}
+<blockquote><p> <button>버튼<button> </p></blockquote> 
+
+<strong>CSS는</strong> 만든 버튼, 입력창을 `꾸며준다`. 
+
+{% highlight css %}
+#button {
+  width: 300px;
+  height: 80px;
+  color: red;
+}
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+<strong>JS는</strong> 만든 버튼을 눌렀을때 `동작을 지정`해 준다.
+
+{% highlight javascript %}
+document.getElementById("button").onclick =function() {
+document.backgroundColor ="white";
+}
+{% endhighlight %}
+
+
+<h2>SPA 란?  앵귤러, 리액트, 뷰 란?</h2>
+
+강력한 MVC패턴의 웹 프레임워크가 발전하면서 더 다양한 웹개발을 가능하게 했다.
+
+하지만 기존 MVC패턴에도 간단한 요청을 하는데도 페이지 리로드의 `비효율적인 단점`이 생기게 된다.
+
+그리고 이제는 웹 뿐만이 아니라 다양한 어플리케이션을 적용하게 되는데.... 
+
+
+
+이러한 문제를 해결하는 강력한 `자바스크립트 프레임워크` <strong>Single Page Application(일명 SPA)<strong>
+
+서버는 오직 `데이터`만!! 보내서 `효율성`을 가지자!!
+
+ Angular.js, Vue.js, React.js 
+
+![angularvuereact](C:\Users\User\Desktop\angularvuereact.png)
+
+Vue.js
+
+ØTemplate 문법
+
+•v-if, v-for, v-model, v-on 등의 다양한 vue 문법
+
+•Computed property
+
+•Watch, filter
+
+•Lifecycle hook
+
+
+
+예제
+
+보간법 및 렌더링
+
+![1565411308197](C:\Users\User\AppData\Roaming\Typora\typora-user-images\1565411308197.png)
+
+
+
+Watch
+
+![1565411391979](C:\Users\User\AppData\Roaming\Typora\typora-user-images\1565411391979.png)
+
+
+
+자세한 Vue.js는 다른 글 참조
+
+SPA 2편 보러가기 : http://inguuu.github.io/SPA2
+
+Vue.js편 : http://inguuu.github.io/Vue.js
+
+Vue 
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
