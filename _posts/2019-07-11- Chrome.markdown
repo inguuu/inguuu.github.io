@@ -14,6 +14,7 @@ comments: true
 
 우리가 인터넷하면 가장 먼저 떠오르는 아이콘은 무엇일까?
 
+![chrome2](https://user-images.githubusercontent.com/49789734/62818557-b5664880-bb83-11e9-9057-53c2dc200c9c.png)
 
 필자는 아직도 왼쪽의 IE를 선택을 하게된다.
 
@@ -29,15 +30,24 @@ comments: true
 
 <h4>지금의 웹 브라우저</h4>
 
+![chrome](https://user-images.githubusercontent.com/49789734/62818556-b5664880-bb83-11e9-85fc-b91476664ebd.png)
+
+![2015](https://user-images.githubusercontent.com/49789734/62818554-b4cdb200-bb83-11e9-896a-a2c79a38ff53.png)
+
+![2019](https://user-images.githubusercontent.com/49789734/62818555-b5664880-bb83-11e9-9529-e8ac063b329a.png)
+
 <h4>Chrome</h4>
 
 Chrome은 구글에서 만든 `웹 브라우저`
+![chromicoon](https://user-images.githubusercontent.com/49789734/62818558-b5664880-bb83-11e9-9a8a-c251e365ff56.png)
+
+
 
 과거의 익스플로러에서 현재는 크롬을 쓰게 되는데... 
 얼마전까지는 40대 50대의 중장년층은 크롬이 익숙치 않아서 공공기관 사이트들은 
 익스플로러가 표준이 였다. 하지만 Active X 및 정부의 규제도 풀리고 이제는 크롬으로 자리잡게 된다.
 
-그맇더면!!
+그렇다면!!
 
 
 
