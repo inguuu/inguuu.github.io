@@ -27,12 +27,14 @@ comments: true
 
 
 
-
+<br/>
+<br/>
 
 <h4>여러가지 측면의 두언어의 비교</h4>
 
 
 <strong>접근성</strong>
+
 
 처음 서버를 공부할때 체감은 비교적 노드가 쉬울것이다. 자바스크립트라는 언어의 특성일 수 도있고 MVC라는 특수한 패턴을 지향하지 않아도 된다는점, Express의 편한 개발환경 등 개발자에게는 더 편하게 다가온다.    
 
@@ -43,7 +45,6 @@ comments: true
 
 <strong>장단점</strong>
 
-장점
 
 
 <table style="border:1px solid black;border-collapse: collapse;">
@@ -57,16 +58,55 @@ comments: true
                 <td style=" border:1px solid black;border-collapse: collapse;">Springboot</td>  
                 <td style=" border:1px solid black;border-collapse: collapse;">쉽게 개발할 수 있도록 제공해주는 환경</td>    
             </tr>
+            <tr>
+                <td style=" border:1px solid black;border-collapse: collapse;">모듈(npm)</td>  
+                <td style=" border:1px solid black;border-collapse: collapse;">메이븐(mvn)</td>  
+                <td style=" border:1px solid black;border-collapse: collapse;">라이브러리같은 개념 만들어 놓은 코드를 가지고 쉽게 쓸수 있음</td>    
+            </tr>
+                <tr>
+                <td style=" border:1px solid black;border-collapse: collapse;">V8엔진 비동기처리 스프링보다 빠르다.</td>  
+                <td style=" border:1px solid black;border-collapse: collapse;">복잡한 어플리케이션 구조를 구성 및 설계 가능</td>  
+                <td style=" border:1px solid black;border-collapse: collapse;"></td>    
+            </tr>
+             </tr>
+                <tr>
+                <td style=" border:1px solid black;border-collapse: collapse;">생산성이 높다.</td>  
+                <td style=" border:1px solid black;border-collapse: collapse;">확장성, 재활용성 등의 장점을 가진다.</td>  
+                <td style=" border:1px solid black;border-collapse: collapse;"></td>    
+            </tr>
+             <tr>
+                <td style=" border:1px solid black;border-collapse: collapse;">싱글스레드 기반</td>  
+                <td style=" border:1px solid black;border-collapse: collapse;">멀티스레드 기반.</td>  
+                <td style=" border:1px solid black;border-collapse: collapse;">노드의 가장 큰 단점</td>    
+            </tr>
+             <tr>
+                <td style=" border:1px solid black;border-collapse: collapse;">진입 장벽 낮음</td>  
+                <td style=" border:1px solid black;border-collapse: collapse;">설정이 복잡함</td>  
+                <td style=" border:1px solid black;border-collapse: collapse;"></td>    
+            </tr>
+              <tr>
+                <td style=" border:1px solid black;border-collapse: collapse;">ECMA기반의 자바스크립트</td>  
+                <td style=" border:1px solid black;border-collapse: collapse;">자바의 유료화(?)</td>  
+                <td style=" border:1px solid black;border-collapse: collapse;">코틀린으로 대체 가능</td>    
+            </tr>
+             <tr>
+                <td style=" border:1px solid black;border-collapse: collapse;">MVC 패턴, ORM(JPA)</td>  
+                <td style=" border:1px solid black;border-collapse: collapse;">sequalize 모듈</td>  
+                <td style=" border:1px solid black;border-collapse: collapse;">자바스크립트도 sequalize모듈을 이용해서 MVC패턴을 낼 수 있다.</td>    
+            </tr>
          
          
 </table>
 
-
+<br/>
+<br/>
 
 <strong>마무리</strong>
 
-노드는 대규모 프로젝트나 게임서버 보다는 Restful-Api, 채팅, Push서버에 적합하다. 그리고
-노드의 단일스레드의 문제인지는 모르지만 한국은 많은 회사에서 스프링을 쓰는 것 같다. 
+http://www.techempower.com/benchmarks/
+
+
+노드는 성능은 스프링보다 3배이상의 성능을 보여주고 있다. 하지만 싱글스레드라는 단점때문에 노드는 대규모 프로젝트나 게임서버 보다는 Restful-Api, 채팅, Push서버에 적합하다. 그리고 노드의 단일스레드의 문제인지는 모르지만 한국은 많은 회사에서 스프링을 쓰는 것 같다. 실제로 대한민국 전자정부 표준 프레임워크의 기반 기술이다.
 그래도 모바일 게임회사에서도 노드를 쓰는곳도 있고 MSA를 사용해서 서비스별 다른 프레임워크를 사용하고 있기 때문에 당연한 말이지만 목적에 맞게 사용하는것이 중요한 것 같다. 
 
 
