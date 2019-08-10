@@ -5,14 +5,15 @@ date:   2019-08-10 15:10:18
 comments: true
 ---
 
+<br/>
 
 현재 가장 많이 주목받고 있는 프레임워크 Node.js와 Spring
 
-
+![node](https://user-images.githubusercontent.com/49789734/62819120-ab484800-bb8b-11e9-9eba-e48524448fe1.jpg)![Spring_Framework](https://user-images.githubusercontent.com/49789734/62819121-ab484800-bb8b-11e9-8383-8898fb2ec2e3.png)
 
 강력한 프레임워크를 간단하면서도 쉽게 비교해보자!!
 
-
+<br/>
 <h4>Node.js란? Spring Framework이란?</h4>
 
 <strong>Node.js</strong>
@@ -37,17 +38,28 @@ comments: true
 
 <strong>언어</strong>
 
-두 프레임워크의 가장 큰차이는 결국 '자바냐? 자바스크립트냐?'의 차이를 볼 수 있다. 스프링은 자바의 객체지향적 특징인 클래스, 인터페이스를 이용하여 재활용 및 확장성을 높이고 스프링만의 관점지향적 특징도 가지고 있다.
+두 프레임워크의 가장 큰차이는 결국 `'자바냐? 자바스크립트냐?'`의 차이를 볼 수 있다. 스프링은 자바의 객체지향적 특징인 클래스, 인터페이스를 이용하여 재활용 및 확장성을 높이고 스프링만의 관점지향적 특징도 가지고 있다.
 반면에 노드는 스크립트 언어로 비교적 변수선언과 데이터를 다루기 간단하다. 그리고 다른개념이긴 하지만 ECMA7 부터 클래스를 지향하고 있다.   
 
 <strong>장단점</strong>
 
 장점
 
-| 스프링  |  노드  | 비고|
-| ------ | ------ |------|
-|  Spring boot    | Express| 쉽게 개발할 수 있도록 하는 환경|
-
+<table>
+            <tr>
+                <!-- <th style="border:1px solid black">제목1</th>   -->
+                <th>Node</th>
+                <th>Spring</th> 
+                <th>비고</th>   
+            </tr>
+            <tr>
+                <td>Express</td>  
+                <td>Springboot</td>  
+                <td>쉽게 개발할 수 있도록 제공해주는 환경</td>    
+            </tr>
+         
+         
+</table>
 
 
 
