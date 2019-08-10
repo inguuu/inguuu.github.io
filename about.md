@@ -5,10 +5,13 @@ permalink: /about/
 slug: about
 ---
 
-This is a Jekyll theme. You can find out more information about customizing your theme Jekyll, as well as basic documentation Jekyll use in [inguuu.github.io](http://inguuu.github.io/).
+<h4>여러 IT 상식을 공유하는 사이트 입니다.</h4>
 
-You can find the source code for this theme: [github.com/inguuu]({{ site.github }})
+1. 쉽고 간단하게 정의만!!
 
-You can find the source code in Jekyll [github.com/inguuu](https://github.com/inguuu)
+2. 좋은 사이트 및 블로그 추천!!
 
-Theme developed by: [{{ site.author.name }}]({{ site.author.url }})
+3. 인터넷에 딱딱한 정의보단 경험하면서 느낀 내용을 전달!!
+
+깃주소는 여기로 => [inguuu.github.io](http://inguuu.github.io/)
+
