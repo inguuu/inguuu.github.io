@@ -18,7 +18,6 @@ comments: true
 {% highlight html %}
 <button>버튼<button>
 {% endhighlight %}
-<blockquote><p> <button>버튼<button> </p></blockquote> 
 
 <strong>CSS는</strong> 만든 버튼, 입력창을 `꾸며준다`. 
 
