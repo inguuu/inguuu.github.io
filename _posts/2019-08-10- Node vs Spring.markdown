@@ -45,17 +45,17 @@ comments: true
 
 장점
 
-<table>
+
+<table style="border:1px solid black;border-collapse: collapse;">
             <tr>
-                <!-- <th style="border:1px solid black">제목1</th>   -->
-                <th>Node</th>
-                <th>Spring</th> 
-                <th>비고</th>   
+                <th style ="background:rgb(100, 114, 150); color: #ffffff; border:1px solid black;border-collapse: collapse;">Node</th>
+               <th style ="background:rgb(100, 114, 150); color: #ffffff; border:1px solid black;border-collapse: collapse;">Spring</th> 
+                <th style ="background:rgb(100, 114, 150); color: #ffffff; border:1px solid black;border-collapse: collapse;">비고</th>   
             </tr>
             <tr>
-                <td>Express</td>  
-                <td>Springboot</td>  
-                <td>쉽게 개발할 수 있도록 제공해주는 환경</td>    
+                <td style=" border:1px solid black;border-collapse: collapse;">Express</td>  
+                <td style=" border:1px solid black;border-collapse: collapse;">Springboot</td>  
+                <td style=" border:1px solid black;border-collapse: collapse;">쉽게 개발할 수 있도록 제공해주는 환경</td>    
             </tr>
          
          
