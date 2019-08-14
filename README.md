@@ -1,4 +1,4 @@
-# inguuu의 잡식한 IT 상식 
+# inguuu의 잡다한 IT 상식 
 
 
 
