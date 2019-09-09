@@ -3,7 +3,7 @@
 
 
 
-## 템플릿 참조 
+## 템플릿 참조 ~
 
 > **Zetsu** - is a clean theme for Jekyll :smirk:
 
