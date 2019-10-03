@@ -12,7 +12,9 @@ comments: true
 
  먼저 한번 읽어보자!! 
 
- [https://zetawiki.com/wiki/%EC%84%A4%EC%A0%95%EB%B3%B4%EB%8B%A4_%EA%B4%80%EC%8A%B5_CoC](https://zetawiki.com/wiki/%EC%84%A4%EC%A0%95%EB%B3%B4%EB%8B%A4_%EA%B4%80%EC%8A%B5_CoC)
+ https://zetawiki.com/wiki/%EC%84%A4%EC%A0%95
+
+%EB%B3%B4%EB%8B%A4_%EA%B4%80%EC%8A%B5_CoC
 
  읽고 왔다면 여기서 말하는 `관습, 관례, 컨벤션`은 무엇인가??
 
