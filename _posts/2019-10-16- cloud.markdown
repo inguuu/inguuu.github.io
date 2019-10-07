@@ -6,6 +6,8 @@ comments: true
 ---
 
 <h4>Cloud, 클라우드 서비스</h4>
+
+![클라우드2](https://user-images.githubusercontent.com/49789734/66284891-25374c00-e905-11e9-85f9-957431ea0f72.png)
  
  우리는 전공자라면 클라우드를 한번쯤은 들어 봤을 것이다.
 
@@ -24,6 +26,8 @@ comments: true
  그렇다면 가상 컴퓨팅이 무엇인가에 대해 알아보자
  
  가상 컴퓨팅이란?
+
+ ![클라우드3](https://user-images.githubusercontent.com/49789734/66284889-249eb580-e905-11e9-944a-1d803e6b108e.jpg)
  
  말 그대로 실체가 없는 컴퓨터 즉 가상의 컴퓨터를 쓴다는 것이다. 
  
@@ -53,6 +57,8 @@ comments: true
  
 
  <h4>왜 클라우드를 쓰는가?<h4>
+
+ ![클라우드4](https://user-images.githubusercontent.com/49789734/66284892-25374c00-e905-11e9-8fa5-92d2a88e4792.png)
  
  예를들어 보자
 
@@ -104,6 +110,10 @@ comments: true
  클라우드는 IaaS, PaaS, SaaS 나뉜다.
 
  이러한 정보는 인터넷에 자세히 나온다. 
+
+ 
+
+![클라우드](https://user-images.githubusercontent.com/49789734/66284890-25374c00-e905-11e9-9b33-b8eb9bc0f8d0.png)
 
  가장 간단하게 핵심 단어로 표현하면 
 
