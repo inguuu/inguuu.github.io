@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "쿠버네티스: 컨테이너를 관리하자"
+date:   2019-11-17 11:40:18
+comments: true
+---
+
+<h4>쿠버네티스를 알아보자!</h4>
+
+![11](https://user-images.githubusercontent.com/49789734/69911597-f51dac80-1460-11ea-812d-cbbb9c1a9dd6.png)
+![22](https://user-images.githubusercontent.com/49789734/69911598-f51dac80-1460-11ea-88ce-3967e8d66eee.png)
+![33](https://user-images.githubusercontent.com/49789734/69911599-f51dac80-1460-11ea-8966-c1b051254634.png)
+![44](https://user-images.githubusercontent.com/49789734/69911600-f51dac80-1460-11ea-9df6-043f3215258a.png)
+
+
+
+<h4>쉽게 정리: 도커뿐 만아니라 컨테이너를 관리해주는 시스템</h4>
