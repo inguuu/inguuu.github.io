@@ -1,0 +1,29 @@
+---
+
+layout: post
+title:  "도커, 쿠버네티스 배포법 꿀팁! 정리"
+date:   2019-11-28 11:40:18
+comments: true
+---
+
+<h4>도커, 쿠버네티스 실제 배포법 정리!!</h4>
+
+직접 해보면서 정말 잘 정리한 자료.. 
+
+https://github.com/inguuu/Kubernetes-Docker
+
+
+
+![111](https://user-images.githubusercontent.com/49789734/69911677-6dd13880-1462-11ea-9f0c-324d8c84b857.png)
+![222](https://user-images.githubusercontent.com/49789734/69911678-6dd13880-1462-11ea-94b4-c0538c13fe29.png)
+![333](https://user-images.githubusercontent.com/49789734/69911679-6dd13880-1462-11ea-811d-1f3a0e9f8d92.png)
+![444](https://user-images.githubusercontent.com/49789734/69911680-6dd13880-1462-11ea-9cac-22c130c53e1a.png)
+![555](https://user-images.githubusercontent.com/49789734/69911681-6e69cf00-1462-11ea-8052-d5d4de0b099f.png)
+![666](https://user-images.githubusercontent.com/49789734/69911682-6e69cf00-1462-11ea-80dd-1cdb72608cbe.png)
+![777](https://user-images.githubusercontent.com/49789734/69911683-6e69cf00-1462-11ea-9cf9-a344fb3d44c2.png)
+![888](https://user-images.githubusercontent.com/49789734/69911684-6f026580-1462-11ea-8673-55c12fddbf7a.png)
+![999](https://user-images.githubusercontent.com/49789734/69911685-6f026580-1462-11ea-8615-bfd2dc398c28.png)
+![1010](https://user-images.githubusercontent.com/49789734/69911686-6f026580-1462-11ea-856c-4831d1645b99.png)
+
+
+
